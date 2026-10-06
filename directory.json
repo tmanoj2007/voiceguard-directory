@@ -1,10 +1,10 @@
 {
-  "version": 2,
-  "issued_at": "2026-10-06T16:42:52Z",
+  "version": 3,
+  "issued_at": "2026-10-06T17:27:39Z",
   "servers": [
-    "https://transform-legislature-archived-tiny.trycloudflare.com",
-    "https://manoj.tailb0abb4.ts.net:8443"
+    "https://manoj.tailb0abb4.ts.net:8443",
+    "https://transform-legislature-archived-tiny.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "J4THbp1G9lPs2kIlv6mUEb4fHt58q68I8VR89YFW2LK1RgVeVvKwGLey53m2vPD/tBA/MMEoVpJrFF/7wjDECA=="
+  "signature": "5+HI9ZSm1X7WpuPkgEG2B6sqj3+LQUKUZPjcQ2yyswagOsEzkfblenqiJWqbChZW9VB3/NDVIMcYj7vocjlJCw=="
 }
