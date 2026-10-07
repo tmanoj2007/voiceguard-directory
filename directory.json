@@ -1,10 +1,10 @@
 {
-  "version": 5,
-  "issued_at": "2026-10-07T13:48:36Z",
+  "version": 6,
+  "issued_at": "2026-10-07T17:10:12Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://travis-cloth-microwave-sandra.trycloudflare.com"
+    "https://jason-bride-highly-merry.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "qoR+/gMkkbRI8+D5oMG4RzfS1QdNY7r5SbYKUbscjBHijknYWnDyc30JgkoIzg1EcKl7Vt7FTqWd0k2PqrKlBQ=="
+  "signature": "os4O5LKCMz31sl9rVS92FJstgDk9/pAKgGRKkLixeK8wL1yWkUbTghpLNOfVrCyO1UMzAna+vpr4WTQA8ObSDQ=="
 }
