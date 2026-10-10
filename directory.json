@@ -1,10 +1,10 @@
 {
-  "version": 10,
-  "issued_at": "2026-10-10T07:00:12Z",
+  "version": 11,
+  "issued_at": "2026-10-10T12:58:49Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://watching-usr-vhs-scenes.trycloudflare.com"
+    "https://chronic-dropped-bacon-consultants.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "PqNBQdFde2NsTg8w3OpYpWXxbByHtNNXOKRBreMuWcWUbpYuvJZBvCanN1VlhVLvHrNssvmtdk2Vcbbzr3VuAQ=="
+  "signature": "YazUn7HJQBVeRDKrsJe9pVN7A5rs1Tjxsk3Uw+TrV0KrlL3r11J8VtpSX0c8RiSV1T7SDWTMm31IP/hBoXyKAQ=="
 }
