@@ -1,10 +1,10 @@
 {
-  "version": 11,
-  "issued_at": "2026-10-10T12:58:49Z",
+  "version": 12,
+  "issued_at": "2026-10-11T11:13:38Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://chronic-dropped-bacon-consultants.trycloudflare.com"
+    "https://databases-earthquake-hub-cave.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "YazUn7HJQBVeRDKrsJe9pVN7A5rs1Tjxsk3Uw+TrV0KrlL3r11J8VtpSX0c8RiSV1T7SDWTMm31IP/hBoXyKAQ=="
+  "signature": "F1kVgtaaMNZtiBMw12l5BitJRgINGcIAYuGOO1ZueNW65RByNbS1cBRVxe29HxjxZ+hLF6bg7MZ8+LZpT1u8BA=="
 }
