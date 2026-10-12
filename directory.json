@@ -1,10 +1,10 @@
 {
-  "version": 13,
-  "issued_at": "2026-10-11T14:00:25Z",
+  "version": 14,
+  "issued_at": "2026-10-12T03:48:41Z",
   "servers": [
-    "https://manoj.tailb0abb4.ts.net:8443",
-    "https://time-julian-irc-employment.trycloudflare.com"
+    "https://whom-connections-criterion-landscape.trycloudflare.com",
+    "https://manoj.tailb0abb4.ts.net:8443"
   ],
   "notice": "",
-  "signature": "3K4mSyOzI3BmFkoZCPEE5KMR+XrBJ9q4DUjX3fc4tSTUYmLJ6UBn1bnbRJU0X1i3ZIz3SUZp30E9HIp0yVGUCA=="
+  "signature": "NmMZRmLHmT/vHDFmCBe7MhrF9atKDfhY03I9uVs3dR2VqNKCjLu+NvchzNndDSTIxdBq5wR5WqMyZDlNhCvvBw=="
 }
