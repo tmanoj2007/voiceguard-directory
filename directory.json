@@ -1,10 +1,10 @@
 {
-  "version": 15,
-  "issued_at": "2026-10-12T04:08:36Z",
+  "version": 16,
+  "issued_at": "2026-10-13T00:00:07Z",
   "servers": [
-    "https://manoj.tailb0abb4.ts.net:8443",
-    "https://whom-connections-criterion-landscape.trycloudflare.com"
+    "https://gratis-songs-aquatic-missions.trycloudflare.com",
+    "https://manoj.tailb0abb4.ts.net:8443"
   ],
   "notice": "",
-  "signature": "0MPJXC4uHrhKwTU1E1SMRi4ebQF+mK4sLgLbWRgskOhMu7yjEBgd7akrKQpgMStIG7cFJ5Gs/O21cwNcc/OQDQ=="
+  "signature": "Rxb9548HmKrWUlrklXFmm1F0JpK/C8XwOxeqrKtHFm0l3f2dvM45M1P060CTkpCvMzSjZUoMy9RHOImTTmXeAA=="
 }
