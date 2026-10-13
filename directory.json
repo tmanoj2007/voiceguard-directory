@@ -1,10 +1,10 @@
 {
-  "version": 17,
-  "issued_at": "2026-10-13T00:08:26Z",
+  "version": 18,
+  "issued_at": "2026-10-13T01:51:34Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://gratis-songs-aquatic-missions.trycloudflare.com"
+    "https://streaming-explains-boost-foundation.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "8mO2hEr1iWzf32mjwPAEi5X9aUT6uiIfQBu3XZMfewYO/H+sN5OG4oYkb4YUEWC5FdQuLTPajgJCY9vGiwYQBg=="
+  "signature": "1TMk06gEXqUWMGswPW1uVSw7El4m/524IyXGEx9UGmMYTDDryqrMb21aZh3fVSl8oJxDXgj1OAkWttPDI70iCA=="
 }
