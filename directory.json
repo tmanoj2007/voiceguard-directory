@@ -1,10 +1,10 @@
 {
-  "version": 16,
-  "issued_at": "2026-10-13T00:00:07Z",
+  "version": 17,
+  "issued_at": "2026-10-13T00:08:26Z",
   "servers": [
-    "https://gratis-songs-aquatic-missions.trycloudflare.com",
-    "https://manoj.tailb0abb4.ts.net:8443"
+    "https://manoj.tailb0abb4.ts.net:8443",
+    "https://gratis-songs-aquatic-missions.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "Rxb9548HmKrWUlrklXFmm1F0JpK/C8XwOxeqrKtHFm0l3f2dvM45M1P060CTkpCvMzSjZUoMy9RHOImTTmXeAA=="
+  "signature": "8mO2hEr1iWzf32mjwPAEi5X9aUT6uiIfQBu3XZMfewYO/H+sN5OG4oYkb4YUEWC5FdQuLTPajgJCY9vGiwYQBg=="
 }
