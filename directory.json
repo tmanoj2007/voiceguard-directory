@@ -1,10 +1,10 @@
 {
-  "version": 18,
-  "issued_at": "2026-10-13T01:51:34Z",
+  "version": 19,
+  "issued_at": "2026-10-16T04:45:26Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://streaming-explains-boost-foundation.trycloudflare.com"
+    "https://cbs-having-allergy-betty.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "1TMk06gEXqUWMGswPW1uVSw7El4m/524IyXGEx9UGmMYTDDryqrMb21aZh3fVSl8oJxDXgj1OAkWttPDI70iCA=="
+  "signature": "6ViPvUODQca8qN1B+yxbVWnIH5hhHXvbdQOQdykFmX6yXbVVSBUsX62uechk/iI27MvKcgU7/PkMJewsF9p9BA=="
 }
