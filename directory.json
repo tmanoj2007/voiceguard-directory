@@ -1,10 +1,10 @@
 {
-  "version": 19,
-  "issued_at": "2026-10-16T04:45:26Z",
+  "version": 20,
+  "issued_at": "2026-10-17T04:30:40Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://cbs-having-allergy-betty.trycloudflare.com"
+    "https://protocols-citizen-intranet-tion.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "6ViPvUODQca8qN1B+yxbVWnIH5hhHXvbdQOQdykFmX6yXbVVSBUsX62uechk/iI27MvKcgU7/PkMJewsF9p9BA=="
+  "signature": "SJKfkEtRytfcxctwDRLSFHQgzD2idEY3ASuoWfum/hJMtxCSGooi3yPaHz04FcR/jDtgsyYX0IyftGP3/ulwDA=="
 }
