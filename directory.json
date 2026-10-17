@@ -1,10 +1,10 @@
 {
-  "version": 22,
-  "issued_at": "2026-10-17T12:31:30Z",
+  "version": 23,
+  "issued_at": "2026-10-17T15:20:16Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://usc-preliminary-maple-ended.trycloudflare.com"
+    "https://puzzle-apparent-gbp-becomes.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "/S0LskAgLxubXUp8IbLuElg84bdSvORJm02cxIf43Lpx1EJKPrZ54EnFxBtIJlTlbBaWE4YXUv9Pb+pB+apRBA=="
+  "signature": "j81NsWMUkRTyXi1uiUmHwi0OpfudE6+TWX2O3yTYggF3EaV7Jj6FpoksWMBahD5ADwSXOaUf+Fotf2ZVkAIGDw=="
 }
