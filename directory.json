@@ -1,10 +1,10 @@
 {
-  "version": 25,
-  "issued_at": "2026-10-24T03:30:12Z",
+  "version": 26,
+  "issued_at": "2026-10-24T06:00:11Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://whatever-outdoor-genesis-comprehensive.trycloudflare.com"
+    "https://buf-yours-internet-assured.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "mDEZr1WUahdTl8d5LfLgmLCjMy/jK4xYNGu+CxHNmwfdB1PBv3Z0uGiILhzrdnzC1DhM2N4sOFVai4zUEgI3CA=="
+  "signature": "eih5xRmv+fqtk9mpLqrZTXAlRe+P9i2fRkZQwbF6tMZNllRKleDeAsjMmlp5E3O1lhT2PsDXlguAl2VawsUhCg=="
 }
