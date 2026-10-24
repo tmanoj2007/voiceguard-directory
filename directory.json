@@ -1,10 +1,10 @@
 {
-  "version": 24,
-  "issued_at": "2026-10-24T03:00:27Z",
+  "version": 25,
+  "issued_at": "2026-10-24T03:30:12Z",
   "servers": [
-    "https://causes-manufacturer-gonna-brown.trycloudflare.com",
-    "https://manoj.tailb0abb4.ts.net:8443"
+    "https://manoj.tailb0abb4.ts.net:8443",
+    "https://whatever-outdoor-genesis-comprehensive.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "FZrKwjmgLjBLYCUZYlT9qE7nD6hwBmfgVjpGq8CdJ0dW8iH/rWEGbCyBeIXCbQVHzmxZE8HpcslvTwGe+yk6AQ=="
+  "signature": "mDEZr1WUahdTl8d5LfLgmLCjMy/jK4xYNGu+CxHNmwfdB1PBv3Z0uGiILhzrdnzC1DhM2N4sOFVai4zUEgI3CA=="
 }
