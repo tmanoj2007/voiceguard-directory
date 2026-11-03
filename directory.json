@@ -1,10 +1,10 @@
 {
-  "version": 28,
-  "issued_at": "2026-10-31T15:39:44Z",
+  "version": 29,
+  "issued_at": "2026-11-03T01:21:14Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://cliff-difficulty-max-ppc.trycloudflare.com"
+    "https://operational-linked-spend-empirical.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "4oL19DNNbe5IkUXHoAuvwTcKY4vqfKPmNjNgaVLqJJHw7c6NzF7D58xfMF3I+VeN3TKYpnSgN0MKPLvaTtNPCA=="
+  "signature": "M9YOXbN3gj+Wjayr/Iy0LwV/kvWrRU3xzTDSvBnyM8DhC0+ujmxqJ092GgejJUE0aeS5Qng32o2dTsk45FrcAQ=="
 }
