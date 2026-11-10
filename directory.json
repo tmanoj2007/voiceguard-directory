@@ -1,10 +1,10 @@
 {
-  "version": 33,
-  "issued_at": "2026-11-06T16:00:29Z",
+  "version": 34,
+  "issued_at": "2026-11-10T14:33:29Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://mating-florists-nashville-brave.trycloudflare.com"
+    "https://chances-resumes-aruba-carb.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "10SO6SOo1eM/lWyx6IMjgejZZKmYWjbBbSZ/7hNfNqhY56gNnZKmdEzj1vORKMJagP/uXEZ8pbC2edLsnZ11CA=="
+  "signature": "QbzgKye/6RxOuQWLvfewnasF0ptBNc8Kf2k4vy1tRP0IHWMsIJ58JfEktfUTuCBrKza5Rjn50rekHcdAtQLjBw=="
 }
