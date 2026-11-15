@@ -1,10 +1,10 @@
 {
-  "version": 37,
-  "issued_at": "2026-11-15T09:45:47Z",
+  "version": 38,
+  "issued_at": "2026-11-15T15:40:09Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://pipes-chance-partners-barbara.trycloudflare.com"
+    "https://rack-worldwide-cowboy-bible.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "bnwV3PUuO3YJ8FwoqKKbZCAZff7wZTBcYRoV3OLLXiMwGUkB7RVeOh3BOM9leHqujs0PB/nfGGUbezGRWlTJDg=="
+  "signature": "Q9+9YJvBpLdrPPnNoZ6zoJrFvNJalNGkfMaDrIo1Q6dR2K7V30US+WztFQNLYz5TdAej4EV1VWmjrHHV6vwkBw=="
 }
