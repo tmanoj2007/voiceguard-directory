@@ -1,10 +1,10 @@
 {
-  "version": 40,
-  "issued_at": "2026-11-16T01:00:07Z",
+  "version": 41,
+  "issued_at": "2026-11-16T15:31:25Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://david-donated-informational-bet.trycloudflare.com"
+    "https://treo-plans-hub-switched.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "RKEyxRBk0Rut6wVRKi+rbmS2jcbcQrLauBRX+vqnjuCkbaDHWNSRfO238/iZmGQwGcAmMiD+MSxlxa2nk1IWAw=="
+  "signature": "ZdtpRNoyjpmRsVxptu8K5nCaOJyBxiRtDECfx31m0vThak2ThhEYR6AIk3HqV5O1TvU7nD84qSgISDWHls69CQ=="
 }
