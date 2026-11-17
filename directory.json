@@ -1,10 +1,10 @@
 {
-  "version": 41,
-  "issued_at": "2026-11-16T15:31:25Z",
+  "version": 42,
+  "issued_at": "2026-11-17T04:33:25Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://treo-plans-hub-switched.trycloudflare.com"
+    "https://finals-spirit-stated-souls.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "ZdtpRNoyjpmRsVxptu8K5nCaOJyBxiRtDECfx31m0vThak2ThhEYR6AIk3HqV5O1TvU7nD84qSgISDWHls69CQ=="
+  "signature": "AtERlKgv+Ya97aiD2V6a3k8LY4XwThci8BGztUqBQcU3w+l3Y+yB0oL9oCce3zmDH/gVvIsUh38HG+Gl6EctDA=="
 }
