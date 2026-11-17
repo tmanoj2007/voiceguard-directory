@@ -1,10 +1,10 @@
 {
-  "version": 43,
-  "issued_at": "2026-11-17T11:10:09Z",
+  "version": 44,
+  "issued_at": "2026-11-17T14:30:08Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://waiting-stanford-airport-anna.trycloudflare.com"
+    "https://nut-belkin-focus-contribution.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "nWvqw7pA6cXUywYX8YdmaYOvTsQs5wIMq4ir18NRDPvLuEfHQmP4r11oydEojAvF2ZC12TzWcUtLgxCFu6XNDA=="
+  "signature": "GtNKdRSeer0rQMbIdXO5+NiUdK0GR68UAFSskxm+MK5wPHAJ/dHgj+i9URxNwb89u/8sfs1TrjpKAePXuzWIDw=="
 }
