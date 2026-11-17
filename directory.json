@@ -1,10 +1,10 @@
 {
-  "version": 42,
-  "issued_at": "2026-11-17T04:33:25Z",
+  "version": 43,
+  "issued_at": "2026-11-17T11:10:09Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://finals-spirit-stated-souls.trycloudflare.com"
+    "https://waiting-stanford-airport-anna.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "AtERlKgv+Ya97aiD2V6a3k8LY4XwThci8BGztUqBQcU3w+l3Y+yB0oL9oCce3zmDH/gVvIsUh38HG+Gl6EctDA=="
+  "signature": "nWvqw7pA6cXUywYX8YdmaYOvTsQs5wIMq4ir18NRDPvLuEfHQmP4r11oydEojAvF2ZC12TzWcUtLgxCFu6XNDA=="
 }
