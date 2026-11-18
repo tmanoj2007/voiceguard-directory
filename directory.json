@@ -1,10 +1,10 @@
 {
-  "version": 47,
-  "issued_at": "2026-11-18T04:00:20Z",
+  "version": 48,
+  "issued_at": "2026-11-18T07:20:08Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://feeding-anyone-researcher-compile.trycloudflare.com"
+    "https://referring-paper-maps-patricia.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "fxJkQB6x1y6wdz668+0LCxJmFIPgEInmYK+ukZgujhGbgfTryMQUOwouqcJ8Za9OamV5DffQNy1ywdQw++pxDA=="
+  "signature": "l3bYab7r38ZO6ynX1BZmG/elk/uU62kEgb1W0D7EcCjxLusn7xeUUXanghBGoV3TLwi/9u3siFBpyaXYrOHRBg=="
 }
