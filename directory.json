@@ -1,10 +1,10 @@
 {
-  "version": 50,
-  "issued_at": "2026-11-25T13:40:10Z",
+  "version": 51,
+  "issued_at": "2026-11-26T05:02:11Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://seafood-seats-clinical-conferences.trycloudflare.com"
+    "https://creator-flyer-enabled-adelaide.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "/fA3/OdskhrEi125Zo7MlaBzMkJODY1PyGMTaTNSFVW8SlSBGkd0gCE6W9YlZVagF0gqDenYHK9JmUhzHGIcBg=="
+  "signature": "B6ewubISfE5tEDNYSTjP87dJZIwJkJzaU/e4ZsLCicss9T20nXEJ/jVXEavv2I38RC+sKFTW6r0Cfw2u0xUyAw=="
 }
