@@ -1,10 +1,10 @@
 {
-  "version": 51,
-  "issued_at": "2026-11-26T05:02:11Z",
+  "version": 52,
+  "issued_at": "2026-11-26T10:50:59Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://creator-flyer-enabled-adelaide.trycloudflare.com"
+    "https://ampland-tomato-hospitals-bicycle.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "B6ewubISfE5tEDNYSTjP87dJZIwJkJzaU/e4ZsLCicss9T20nXEJ/jVXEavv2I38RC+sKFTW6r0Cfw2u0xUyAw=="
+  "signature": "2IEgyZLKJGga8cjOPpYZHHalA4A2jcBu6kaaSgIqcf8NAnX9VLd9Q8RmbiXQeanMtfWMuieZ7ub8eRXYqh6XDg=="
 }
