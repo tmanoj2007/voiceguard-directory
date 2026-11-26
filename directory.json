@@ -1,10 +1,10 @@
 {
-  "version": 52,
-  "issued_at": "2026-11-26T10:50:59Z",
+  "version": 53,
+  "issued_at": "2026-11-26T12:10:08Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://ampland-tomato-hospitals-bicycle.trycloudflare.com"
+    "https://crest-derby-termination-newer.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "2IEgyZLKJGga8cjOPpYZHHalA4A2jcBu6kaaSgIqcf8NAnX9VLd9Q8RmbiXQeanMtfWMuieZ7ub8eRXYqh6XDg=="
+  "signature": "gxvYpaHV6ORGKHP6qQuuaxBDcuouLMkQVE05beXd10xddlIBsTdHZY1W06UVkcjsQSnmGVrxwzXgQHj3jqz6Cw=="
 }
