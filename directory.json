@@ -1,10 +1,10 @@
 {
-  "version": 53,
-  "issued_at": "2026-11-26T12:10:08Z",
+  "version": 54,
+  "issued_at": "2026-11-28T12:50:22Z",
   "servers": [
     "https://manoj.tailb0abb4.ts.net:8443",
-    "https://crest-derby-termination-newer.trycloudflare.com"
+    "https://sunset-urgent-quarter-territories.trycloudflare.com"
   ],
   "notice": "",
-  "signature": "gxvYpaHV6ORGKHP6qQuuaxBDcuouLMkQVE05beXd10xddlIBsTdHZY1W06UVkcjsQSnmGVrxwzXgQHj3jqz6Cw=="
+  "signature": "aKMkhXU31A0L1TwnCXeVPIFu5IraBGpoMEbLWXK9RSmGA07kFojrLwo9I0/raDRWLR6/TlvmAPA2Crae+YnFAg=="
 }
